@@ -1,0 +1,33 @@
+title
+{
+font-size: 36px;
+font-family: cursive;
+text-align: center;
+}
+body{
+font-size: 28px;
+font-family: cursive;
+text-align: center;
+}
+p{
+font-size:20px;
+}
+tr a{
+color: black;
+font-family: cursive;
+text-align: center;
+}
+tr a:hover
+{
+background-color:white;
+}
+.box{
+display: block;
+float: left;
+width:20%;
+padding: 10px;
+}
+img{
+width: 100%;
+}
+
